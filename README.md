@@ -1,1 +1,1 @@
-# SpeedwayJS
+# Speedway game
